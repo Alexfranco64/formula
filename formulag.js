@@ -1,4 +1,4 @@
-
+document.write("<h1>formulag</h1>");
 
     var a= prompt ("Introduce un valor númerico (a)");
     var b= prompt ("Introduce un valor númerico (b)");
